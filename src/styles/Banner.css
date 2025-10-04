@@ -1,0 +1,14 @@
+.banner img{
+    width: 95vw;
+    margin-left: 2.5vw;  
+    transition: all 0.5s ease;
+}
+
+.banner img:hover{
+    scale: 1.01;
+    box-shadow: 0vh 10vh 15vh black;
+}
+
+.banner {
+    margin: 4vh 0vh;
+}
